@@ -1,0 +1,7 @@
+{
+  "buildCommand": "npx vite build",
+  "outputDirectory": "dist",
+  "env": {
+    "NODE_VERSION": "20"
+  }
+}
